@@ -1,0 +1,5 @@
+﻿  ManagementSystem.c
+D:\Programming\Bank Management System\Bank Management System\ManagementSystem.c(227,14): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Programming\Bank Management System\Bank Management System\ManagementSystem.c(272,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Programming\Bank Management System\Bank Management System\ManagementSystem.c(305): warning C4715: 'GetMonth': not all control paths return a value
+  Bank Management System.vcxproj -> D:\Programming\Bank Management System\Debug\Bank Management System.exe
